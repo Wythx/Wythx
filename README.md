@@ -15,7 +15,7 @@
    
    <hr>
     
-   <img src="I WILL BECOME THE WORLD’S BEST STRIKER_.gif"/>
+ ![I WILL BECOME THE WORLD’S BEST STRIKER_](https://github.com/Wythx/Wythx/assets/125655699/7eaea071-7d6b-436d-8487-a312d9452636)
    
    <hr> 
    
@@ -23,3 +23,5 @@
  
 <hr>
  <div>       
+
+   
